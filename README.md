@@ -1,1 +1,1 @@
-# IntSys01_Simulated-Annealing_N-Queens
+# Intelligent systems (Artificial intelligence) - Solving N-Queens problem using Simulated annealing algorithm
