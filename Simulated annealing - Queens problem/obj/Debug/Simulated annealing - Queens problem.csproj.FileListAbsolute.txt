@@ -1,0 +1,10 @@
+D:\Development\Visual studio\IS\Simulated annealing - Queens problem\Simulated annealing - Queens problem\bin\Debug\Simulated annealing - Queens problem.exe.config
+D:\Development\Visual studio\IS\Simulated annealing - Queens problem\Simulated annealing - Queens problem\bin\Debug\Simulated annealing - Queens problem.exe
+D:\Development\Visual studio\IS\Simulated annealing - Queens problem\Simulated annealing - Queens problem\bin\Debug\Simulated annealing - Queens problem.pdb
+D:\Development\Visual studio\IS\Simulated annealing - Queens problem\Simulated annealing - Queens problem\obj\Debug\Simulated annealing - Queens problem.csprojAssemblyReference.cache
+D:\Development\Visual studio\IS\Simulated annealing - Queens problem\Simulated annealing - Queens problem\obj\Debug\Simulated_annealing___Queens_problem.Form1.resources
+D:\Development\Visual studio\IS\Simulated annealing - Queens problem\Simulated annealing - Queens problem\obj\Debug\Simulated_annealing___Queens_problem.Properties.Resources.resources
+D:\Development\Visual studio\IS\Simulated annealing - Queens problem\Simulated annealing - Queens problem\obj\Debug\Simulated annealing - Queens problem.csproj.GenerateResource.cache
+D:\Development\Visual studio\IS\Simulated annealing - Queens problem\Simulated annealing - Queens problem\obj\Debug\Simulated annealing - Queens problem.csproj.CoreCompileInputs.cache
+D:\Development\Visual studio\IS\Simulated annealing - Queens problem\Simulated annealing - Queens problem\obj\Debug\Simulated annealing - Queens problem.exe
+D:\Development\Visual studio\IS\Simulated annealing - Queens problem\Simulated annealing - Queens problem\obj\Debug\Simulated annealing - Queens problem.pdb
